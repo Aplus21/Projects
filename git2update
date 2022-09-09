@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+pwd
+git status
